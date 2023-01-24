@@ -1,0 +1,11 @@
+{
+  "name": "eth_voting-noweb3",
+  "version": "1.0.0",
+  "description": "A blockchain-based E-voting system, created as the Third year project of Keshav Memorial Institute of Technology. Teammates include me, Mallesh , Piyush , Nikhil , Arun.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
